@@ -54,8 +54,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ```css
 .parent {
   display: flex;
-  justify-content: center /*to center items horizontally*/
-  align-items: center /*to center items vertically*/
+  justify-content: center; /*to center items horizontally*/
+  align-items: center; /*to center items vertically*/
 }
 ```
 
