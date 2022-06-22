@@ -76,4 +76,5 @@ i guess this is one thing i need to focus on in the future
 ## Acknowledgments
 
 Thanks for [frontendmentor](https://www.frontendmentor.io) for providing these challenges.
+
 Thanks for [vanzasetia](https://www.frontendmentor.io/profile/vanzasetia) for providing a feedback on my solution.
